@@ -5,4 +5,4 @@ import { User } from './user';
 // import { Feedback } from './feedback';
 // import { Notification } from './notification';
 
-export const ENTITIES = [User, Event, Notification];
+export const ENTITIES = [User];
